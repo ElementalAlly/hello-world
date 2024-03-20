@@ -1,1 +1,3 @@
 Hello! This is my Git-it project :)
+
+This is a required modification...
